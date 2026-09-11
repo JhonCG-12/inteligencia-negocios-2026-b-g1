@@ -1,57 +1,63 @@
-# Electiva - Inteligencia de Negocios - 2026-B
+<!--
+CONFIG
+FULL_NAME: Jhon Sebastian Caviedes Guevara
+GITHUB_USER: JhonCG-12
+-->
 
-Repositorio de clase - Corporacion Universitaria del Huila (CORHUILA).
+# 👋 Hola, soy Jhon Sebastian Caviedes Guevara
 
-| | |
-| --- | --- |
-| **Programa** | Ingenieria de Sistemas |
-| **Grupo** | 1 |
-| **Horario** | Jueves 6:00 a. m. - 7:40 a. m. |
-| **Aula** | Por confirmar |
-| **Semestre** | 2026-B |
-| **Frecuencia** | 1 sesion por semana |
+## 👨‍💻 Sobre mí
 
-## Estructura
+Soy estudiante de **Ingeniería de Sistemas en la Corporación Universitaria del Huila - CORHUILA**, actualmente cursando octavo semestre.
 
-El repositorio esta organizado en 16 semanas (`01-week` .. `16-week`).
-Cada semana tiene la siguiente forma:
+Me interesa el desarrollo de software y el uso de la tecnología para crear soluciones que permitan resolver problemas de manera eficiente. Durante mi formación académica he fortalecido conocimientos en programación, redes, calidad de software, bases de datos, inteligencia de negocios y desarrollo de aplicaciones.
 
-```
-NN-week/
-|-- 01-session/           # Sesion de la semana
-\-- 02-optional-activity/ # Actividad opcional de refuerzo
-```
+Me considero una persona responsable, comprometida con mi aprendizaje y con interés constante en mejorar mis habilidades técnicas y profesionales.
 
-- Las carpetas `01-session` contienen el material trabajado en clase.
-- `02-optional-activity` guarda ejercicios opcionales de refuerzo, no calificables.
+## 🚀 Áreas de interés
 
-## Temario (16 semanas)
+- 💻 Desarrollo de software
+- 🐍 Programación con Python
+- 🌐 Redes y telecomunicaciones
+- 🧪 Calidad y pruebas de software
+- 📊 Inteligencia de negocios y análisis de datos
+- 🗄️ Bases de datos
+- ⚙️ Automatización de procesos
+- 🤖 Inteligencia artificial aplicada al desarrollo de software
 
-| Corte | Semanas | Contenido |
-| --- | --- | --- |
-| 1 | 1-5 | Fundamentos: BI y KPI, OLTP vs OLAP, modelo estrella, parcial |
-| 2 | 6-10 | Granularidad, ETL con Power Query, medidas DAX, parcial |
-| 3 | 11-16 | Visualizacion, interactividad, storytelling, publicacion, proyecto |
+## 🛠️ Tecnologías y herramientas
 
-## Como trabajar
+Actualmente continúo fortaleciendo mis conocimientos en diferentes tecnologías y herramientas relacionadas con el desarrollo de software, entre ellas:
 
-```bash
-# 1. Haz un fork de este repositorio (boton Fork arriba a la derecha).
-# 2. Clona TU fork:
-git clone https://github.com/TU-USUARIO/inteligencia-negocios-2026-b-g1.git
-cd inteligencia-negocios-2026-b-g1
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+- Streamlit
+- Cisco Packet Tracer
+- SQL
+- Pruebas de software con Pytest
 
-# 3. Coloca tu entrega en la carpeta de la semana correspondiente, por ejemplo 03-week/.
-# 4. Sube los cambios:
-git add .
-git commit -m "Entrega semana 03"
-git push
-```
+## 🎯 Objetivo profesional
 
-Consulta el **Manual de Entrega por GitHub** disponible en el aula Moodle (Informacion importante).
-Recuerda tener tu **repositorio de perfil** (usuario/usuario) con el bloque **CONFIG** (`FULL_NAME` + `GITHUB_USER`).
+Mi objetivo es continuar desarrollando mis conocimientos y experiencia en el área de ingeniería de software, participando en proyectos que me permitan aplicar buenas prácticas de desarrollo, calidad, automatización y trabajo colaborativo.
 
-## Material interactivo (OVAs)
+Busco fortalecer progresivamente mi perfil profesional para desempeñarme como **desarrollador de software e ingeniero de software junior**, aportando soluciones funcionales, mantenibles y orientadas a las necesidades de los usuarios.
 
-Las sesiones interactivas del curso estan publicadas en:
-**https://code-corhuila.github.io/ova-web/2026-B/inteligencia-negocios/**
+## 📚 Actualmente aprendiendo
+
+Actualmente estoy profundizando mis conocimientos en:
+
+- Ingeniería y calidad de software
+- Automatización de pruebas
+- Redes y telecomunicaciones
+- Inteligencia de negocios
+- Desarrollo de aplicaciones con Python
+- Git y GitHub
+- Buenas prácticas de desarrollo de software
+
+---
+
+### 📫 Perfil
+
+Este espacio reúne parte de mi proceso de formación, proyectos académicos, prácticas y actividades desarrolladas durante mi carrera de **Ingeniería de Sistemas**.
