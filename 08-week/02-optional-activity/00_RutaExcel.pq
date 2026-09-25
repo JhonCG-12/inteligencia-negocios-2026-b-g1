@@ -1,0 +1,1 @@
+"C:\RUTA\taller_power_bi_datos_anonimizados.xlsx" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]

@@ -1,0 +1,84 @@
+{
+  "sha256_original": "cc3b824491761a30a445f1d965bc53d52e7f9a1e6a2f663d2fcc70f1ba81a2e9",
+  "filas": 480,
+  "columnas": 21,
+  "fecha_min": "2026-01-01 00:00:00",
+  "fecha_max": "2026-08-29 00:00:00",
+  "nulos": {
+    "Venta_ID": 0,
+    "Fecha": 0,
+    "Ciudad": 0,
+    "Canal": 0,
+    "Categoría": 0,
+    "Producto": 0,
+    "Cliente_ID_Anonimo": 0,
+    "Tipo_Cliente": 0,
+    "Unidades": 0,
+    "Precio_Unitario": 0,
+    "Descuento_Pct": 0,
+    "Costo_Unitario": 0,
+    "Medio_Pago": 0,
+    "Tiempo_Entrega_Min": 0,
+    "Estado_Entrega": 0,
+    "Satisfaccion_1_5": 0,
+    "Ingreso_Bruto": 0,
+    "Descuento_Valor": 0,
+    "Ingreso_Neto": 0,
+    "Costo_Total": 0,
+    "Margen_Bruto": 0,
+    "Mes": 0,
+    "Entrega_Aplica": 0,
+    "Tardia": 0
+  },
+  "duplicados_fila": 0,
+  "duplicados_venta": 0,
+  "errores_calculos": [],
+  "totales": {
+    "Ingreso_Bruto": 27855200.0,
+    "Descuento_Valor": 1684190.0,
+    "Ingreso_Neto": 26171010.0,
+    "Costo_Total": 16734700.0,
+    "Margen_Bruto": 9436310.0
+  },
+  "unidades": 1260,
+  "entregas": 290,
+  "tardias": 73,
+  "categorias": {
+    "Canal": [
+      "App",
+      "Tienda",
+      "Web"
+    ],
+    "Ciudad": [
+      "Bogotá",
+      "Cali",
+      "Florencia",
+      "Ibagué",
+      "Medellín",
+      "Neiva"
+    ],
+    "Categoría": [
+      "Alimentos",
+      "Bebidas",
+      "Cuidado personal",
+      "Hogar"
+    ],
+    "Estado_Entrega": [
+      "A tiempo",
+      "No aplica",
+      "Tardía"
+    ],
+    "Tipo_Cliente": [
+      "Nuevo",
+      "Recurrente"
+    ],
+    "Medio_Pago": [
+      "Billetera digital",
+      "Efectivo",
+      "Tarjeta",
+      "Transferencia"
+    ]
+  },
+  "dominios_invalidos": 0,
+  "tiempo_entrega_promedio": 52.90689655172414
+}

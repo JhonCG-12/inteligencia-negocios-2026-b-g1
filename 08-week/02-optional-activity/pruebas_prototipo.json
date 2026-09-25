@@ -1,0 +1,37 @@
+{
+  "tests": [
+    {
+      "filter": "Todos",
+      "net": 26171010,
+      "margin": 9436310,
+      "n": 480,
+      "dn": 290,
+      "ln": 73
+    },
+    {
+      "filter": "Tienda",
+      "net": 11547030,
+      "margin": 4094130,
+      "n": 190,
+      "dn": 0,
+      "ln": 0
+    },
+    {
+      "filter": "Web Bogotá",
+      "net": 1239615,
+      "margin": 455615,
+      "n": 31,
+      "dn": 31,
+      "ln": 17
+    },
+    {
+      "filter": "Enero Hogar",
+      "net": 1221250,
+      "margin": 443750,
+      "n": 17,
+      "dn": 7,
+      "ln": 1
+    }
+  ],
+  "errors": []
+}
