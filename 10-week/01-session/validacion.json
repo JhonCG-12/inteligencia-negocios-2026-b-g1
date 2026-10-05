@@ -1,0 +1,38 @@
+{
+  "rawRows": 15,
+  "cleanRows": 12,
+  "total": 270000,
+  "branches": {
+    "NEIVA": {
+      "rows": 4,
+      "units": 8,
+      "total": 85000,
+      "average": 21250,
+      "revenuePerUnit": 10625
+    },
+    "BOGOTA": {
+      "rows": 4,
+      "units": 9,
+      "total": 95000,
+      "average": 23750,
+      "revenuePerUnit": 10555.555555555555
+    },
+    "PITALITO": {
+      "rows": 4,
+      "units": 8,
+      "total": 90000,
+      "average": 22500,
+      "revenuePerUnit": 11250
+    }
+  },
+  "model": {
+    "table": "Ventas",
+    "columnCount": 8,
+    "measureCount": 3,
+    "visualCount": 5
+  },
+  "validation": "JSON syntax, local references, visual field names and independent CSV arithmetic checked.",
+  "nativePowerBIExecution": false,
+  "fullMicrosoftJsonSchemaValidation": false,
+  "note": "Power BI Desktop is unavailable in this session. Refresh, rendering and DAX execution are pending native validation."
+}

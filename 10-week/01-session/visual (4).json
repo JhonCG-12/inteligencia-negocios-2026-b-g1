@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/1.0.0/schema.json",
+  "name": "Resumen",
+  "displayName": "Mini-ETL y contexto de filtro",
+  "displayOption": "FitToPage",
+  "width": 1280,
+  "height": 720,
+  "visualInteractions": [
+    {
+      "source": "FiltroSucursal",
+      "target": "TotalVentas",
+      "type": "DataFilter"
+    },
+    {
+      "source": "FiltroSucursal",
+      "target": "PromedioVenta",
+      "type": "DataFilter"
+    },
+    {
+      "source": "FiltroSucursal",
+      "target": "IngresoUnidad",
+      "type": "DataFilter"
+    },
+    {
+      "source": "FiltroSucursal",
+      "target": "TablaSucursales",
+      "type": "DataFilter"
+    }
+  ]
+}
