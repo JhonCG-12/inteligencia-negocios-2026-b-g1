@@ -1,0 +1,13 @@
+ProductoID,Producto,Categoria,Presentacion
+P01,Café de la Casa,Tradicional,250 g
+P02,Café de la Casa,Tradicional,500 g
+P03,Montaña Oscura,Tradicional,250 g
+P04,Montaña Oscura,Tradicional,500 g
+P05,Origen Pitalito,Origen,250 g
+P06,Origen Pitalito,Origen,500 g
+P07,Origen Acevedo,Origen,250 g
+P08,Origen Acevedo,Origen,500 g
+P09,Origen San Agustín,Origen,250 g
+P10,Origen San Agustín,Origen,500 g
+P11,Microlote Niebla,Microlote,250 g
+P12,Microlote Niebla,Microlote,500 g
